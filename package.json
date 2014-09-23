@@ -1,0 +1,16 @@
+{
+  "name": "voyager-imagemin",
+  "version": "0.0.0",
+  "description": "Imagemin task for voyager",
+  "main": "index.js",
+  "author": "David Glivar <davidglivar@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:davidglivar/voyager-imagemin.git"
+  },
+  "dependencies": {
+    "gulp-cache": "^0.2.2",
+    "gulp-imagemin": "^1.0.1"
+  }
+}

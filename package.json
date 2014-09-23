@@ -10,7 +10,6 @@
     "url": "git@github.com:davidglivar/voyager-imagemin.git"
   },
   "dependencies": {
-    "gulp-cache": "^0.2.2",
     "gulp-imagemin": "^1.0.1"
   }
 }

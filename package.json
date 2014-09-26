@@ -2,9 +2,16 @@
   "name": "voyager-imagemin",
   "version": "0.1.1",
   "description": "Imagemin task for voyager",
+  "keywords": [
+    "voyager", "imagemin", "task"
+  ],
+  "homepage": "https://github.com/wieden-kennedy/voyager-imagemin",
+  "bugs": {
+    "url": "https://github.com/wieden-kennedy/voyager-imagemin/issues"
+  },
   "main": "index.js",
   "author": "David Glivar <davidglivar@gmail.com>",
-  "license": "ISC",
+  "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
     "url": "git@github.com:davidglivar/voyager-imagemin.git"
